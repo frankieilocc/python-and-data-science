@@ -1,2 +1,2 @@
 # python-and-data-science
-practice guid for my data sciennce journey
+practice guide for my data science journey
